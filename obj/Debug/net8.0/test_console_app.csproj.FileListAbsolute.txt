@@ -1,0 +1,14 @@
+C:\Users\vinay.gundavaram\source\repos\test_console_app\bin\Debug\net8.0\test_console_app.exe
+C:\Users\vinay.gundavaram\source\repos\test_console_app\bin\Debug\net8.0\test_console_app.deps.json
+C:\Users\vinay.gundavaram\source\repos\test_console_app\bin\Debug\net8.0\test_console_app.runtimeconfig.json
+C:\Users\vinay.gundavaram\source\repos\test_console_app\bin\Debug\net8.0\test_console_app.dll
+C:\Users\vinay.gundavaram\source\repos\test_console_app\bin\Debug\net8.0\test_console_app.pdb
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.AssemblyInfoInputs.cache
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.AssemblyInfo.cs
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.csproj.CoreCompileInputs.cache
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.dll
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\refint\test_console_app.dll
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.pdb
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\test_console_app.genruntimeconfig.cache
+C:\Users\vinay.gundavaram\source\repos\test_console_app\obj\Debug\net8.0\ref\test_console_app.dll
